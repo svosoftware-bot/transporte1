@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of FreteSmart.",
+  "description": "Aplicativo inteligente para controle de fretes, gastos e análise de lucro para caminhoneiros e frotistas.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
